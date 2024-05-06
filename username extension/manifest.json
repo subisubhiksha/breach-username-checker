@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Breach Username Checker",
+  "version": "1.0",
+  "description": "Check if an account has been breached.",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+    
+    }
+  }
+
+
